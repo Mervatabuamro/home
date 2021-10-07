@@ -9,3 +9,9 @@ A commit, or "revision", is an individual change to a file (or set of files).
 A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository.
 
 4. **SSH Key** refers to *Secure Shell Management*, is a special network protocol leveraging public-key cryptography to enable authorized users to remotely access a computer or other device via access credentials called SSH keys.
+5. 
+6. **remote**
+This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.
+
+7. **remote repository**
+A repository that is used to track the same project but resides somewhere else.
